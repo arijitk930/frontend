@@ -1,0 +1,90 @@
+@import "../../sass/abstracts/mixin";
+
+.container {
+  @include fullContainer;
+}
+
+/*left side container*/
+
+.firstContainer {
+  @include firstContent;
+}
+
+/*right side container*/
+
+.secondContainer {
+  @include secondContent;
+}
+
+.fromContainer {
+  @include fromContent;
+}
+
+.welcome {
+  @include fromHading;
+}
+
+.paragraph {
+  @include formTypography;
+  margin-top: 1rem;
+}
+
+.inputContainer {
+  @include inputContainer;
+}
+
+.mailInput {
+  @include inputBox;
+  margin-top: 2rem;
+}
+
+.passInput {
+  @include inputBox;
+}
+
+.forgotLink {
+  color: #6679c0;
+  text-align: right;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-top: 1rem;
+}
+
+.btn {
+  @include buttonBox;
+
+  .loginBtn {
+    @include buttonContainer;
+  }
+}
+
+.singLink {
+  @include fromLink;
+}
+
+.horizontal {
+  @include horizontalBox;
+
+  hr {
+    @include hrLine;
+  }
+  .middleName {
+    @include middleName;
+  }
+}
+
+.singIn {
+  @include buttonBox;
+  .googleBtn {
+    @include buttonContainer;
+    height: 35px;
+    background: none;
+    color: #1e1e1e;
+    border: 1px solid #000;
+  }
+}
+
+a {
+  text-decoration: none;
+}

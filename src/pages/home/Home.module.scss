@@ -1,0 +1,353 @@
+.container {
+  display: flex;
+  flex: 1;
+  box-sizing: border-box;
+  margin: 0;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.frameDiv,
+.rectangleDiv,
+.webHomePage1Child,
+.webHomePage1Inner,
+.webHomePage1Item {
+  position: absolute;
+  top: 8.19rem;
+  left: 8.63rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-100);
+  width: 72.75rem;
+  height: 25.69rem;
+}
+.frameDiv,
+.rectangleDiv,
+.webHomePage1Inner,
+.webHomePage1Item {
+  top: 35.06rem;
+  border-radius: var(--br-7xs);
+  height: 25.75rem;
+}
+.frameDiv,
+.rectangleDiv,
+.webHomePage1Inner {
+  top: 62.63rem;
+}
+.frameDiv,
+.rectangleDiv {
+  top: 90.19rem;
+}
+.frameDiv {
+  top: 1.13rem;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslategray-200);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 11.69rem;
+  height: 3.44rem;
+}
+.ourProducts,
+.ourProducts1 {
+  position: absolute;
+  top: 5.31rem;
+  left: 8.81rem;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.2px;
+  line-height: 2.25rem;
+  display: inline-block;
+  color: var(--color-gray-200);
+  width: 21rem;
+}
+.ourProducts1 {
+  top: 1.75rem;
+  left: 10.38rem;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-white);
+  width: 8.56rem;
+  height: 2rem;
+}
+.loginregsiter {
+  position: relative;
+  line-height: 1.38rem;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 10.38rem;
+  height: 1.38rem;
+  flex-shrink: 0;
+}
+.loginregsiterWrapper {
+  position: absolute;
+  top: 1.75rem;
+  right: 8.63rem;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(-87.23deg, #004165 30.69%, #85d3ff);
+  width: 11.75rem;
+  height: 3.69rem;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-xs) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: #f6f6f6;
+}
+.aceofnetI3em9pgzkzwUnsplashIcon {
+  position: absolute;
+  top: 8.63rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.44rem;
+  height: 24.69rem;
+  //object-fit: cover;
+  background-image: url(../../../public/assets/undefined.webp);
+}
+.webHomePage1Child1 {
+  position: absolute;
+  top: 19.63rem;
+  left: 9.75rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.startingFromRs {
+  position: absolute;
+  top: 9.06rem;
+  left: 0.01rem;
+  line-height: 1rem;
+  font-weight: 500;
+  display: inline-block;
+  width: 10.44rem;
+  height: 1rem;
+}
+.experientialTourismIs {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 1.38rem;
+  display: inline-block;
+  width: 24rem;
+  height: 7.69rem;
+}
+.startingFromRs500Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24rem;
+  height: 10.06rem;
+}
+.experientialTourism,
+.groupDiv {
+  position: absolute;
+  top: 22.44rem;
+  left: 10.31rem;
+  width: 24rem;
+  height: 10.06rem;
+}
+.experientialTourism {
+  top: 20.38rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 20.88rem;
+  height: 1rem;
+}
+.sehajpalSingh8uqj1L3hzkUnsIcon {
+  position: absolute;
+  top: 35.5rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.25rem;
+  height: 24.81rem;
+  object-fit: cover;
+  background-image: url(../../../public/assets/undefined1.webp);
+
+}
+.webHomePage1Child2 {
+  position: absolute;
+  top: 46.69rem;
+  left: 9.69rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.spiritualTourismInvolves {
+  margin: 0;
+}
+.spiritualTourismInvolvesContainer {
+  line-height: 1.38rem;
+  display: inline-block;
+  white-space: pre-wrap;
+}
+.spiritualTourismInvolvesContainer,
+.spiritualTourismInvolvesTraWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.19rem;
+  height: 7rem;
+}
+.webHomePage1Inner1 {
+  position: absolute;
+  top: 49.88rem;
+  left: 10.25rem;
+  width: 23.19rem;
+  height: 7rem;
+}
+.spiritualTourism,
+.startingFromRs1 {
+  position: absolute;
+  left: 10.25rem;
+  display: inline-block;
+}
+.spiritualTourism {
+  top: 47.56rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  width: 17.5rem;
+  height: 1.06rem;
+}
+.startingFromRs1 {
+  top: 58.19rem;
+  line-height: 1rem;
+  width: 11.06rem;
+  height: 1.13rem;
+}
+.nationalCancerInstitute701Icon {
+  position: absolute;
+  top: 63.13rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.25rem;
+  height: 24.75rem;
+  object-fit: cover;
+  background-image: url(../../../public/assets/undefined2.webp);
+}
+.webHomePage1Child3 {
+  position: absolute;
+  top: 74.25rem;
+  left: 9.69rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.medicalTourismRefers {
+  line-height: 1.38rem;
+  display: inline-block;
+}
+.medicalTourismRefers,
+.medicalTourismRefersToTheWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.88rem;
+  height: 8.06rem;
+}
+.webHomePage1Inner2 {
+  position: absolute;
+  top: 76.88rem;
+  left: 10.25rem;
+  width: 23.88rem;
+  height: 8.06rem;
+}
+.medicalTourism,
+.startingFromRs2 {
+  position: absolute;
+  top: 85.88rem;
+  left: 10.25rem;
+  line-height: 1rem;
+  display: inline-block;
+  width: 11.63rem;
+  height: 1.13rem;
+}
+.medicalTourism {
+  top: 75.13rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  width: 17.31rem;
+  height: 1.44rem;
+}
+.vincentVanZalingeVk9bntxotsIcon {
+  position: absolute;
+  top: 90.69rem;
+  left: 9.38rem;
+  border-radius: var(--br-xl);
+  width: 71.25rem;
+  height: 24.88rem;
+  object-fit: cover;
+  background-image: url(../../../public/assets/undefined3.webp);
+}
+.webHomePage1Child4 {
+  position: absolute;
+  top: 101.88rem;
+  left: 9.69rem;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-300);
+  width: 25rem;
+  height: 13.31rem;
+  mix-blend-mode: screen;
+}
+.wildlifeTourismIs {
+  line-height: 1.38rem;
+  display: inline-block;
+}
+.wildlifeTourismIs,
+.wildlifeTourismIsAFormOfWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.88rem;
+  height: 7rem;
+}
+.webHomePage1Inner3 {
+  position: absolute;
+  top: 105.25rem;
+  left: 10.25rem;
+  width: 23.88rem;
+  height: 7rem;
+}
+.startingFromRs3,
+.wildlifeTourism {
+  position: absolute;
+  left: 10.25rem;
+  display: inline-block;
+  color: var(--color-gray-200);
+}
+.wildlifeTourism {
+  top: 103rem;
+  font-size: var(--font-size-13xl);
+  line-height: 1.13rem;
+  font-weight: 600;
+  width: 19.31rem;
+  height: 1.44rem;
+}
+.startingFromRs3 {
+  top: 113.44rem;
+  line-height: 1rem;
+  width: 15.06rem;
+  height: 1.13rem;
+}
+.webHomePage1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 117.13rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+
